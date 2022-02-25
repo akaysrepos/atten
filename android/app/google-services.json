@@ -1,0 +1,355 @@
+{
+  "project_info": {
+    "project_number": "537403494072",
+    "firebase_url": "https://club-dcda9-default-rtdb.firebaseio.com",
+    "project_id": "club-dcda9",
+    "storage_bucket": "club-dcda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:d7e8f10357f53430766e4d",
+        "android_client_info": {
+          "package_name": "com.club.ak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-12jpdq7ha9sp42qm9d25jl5kttmm7csh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.club.ak",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:e13f6980c0e6a4ea766e4d",
+        "android_client_info": {
+          "package_name": "com.community.cheers21"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:745e917ddfdccdc9766e4d",
+        "android_client_info": {
+          "package_name": "com.community.cheersadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-3tb69e5umnfr0racgt2kil1nsrtpp2rr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.community.cheersadmin",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:c94f2da231ca70fa766e4d",
+        "android_client_info": {
+          "package_name": "com.community.cheersrunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-7hjvnmbjuf1ojaqaer8vvpocpv8477q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.community.cheersrunner",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:83cfcf60e65ffbeb766e4d",
+        "android_client_info": {
+          "package_name": "com.example.atten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-rni2jdi5ib9qk9a1nmk2m2aluo7u141f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.atten",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:ca31d861f1ad8842766e4d",
+        "android_client_info": {
+          "package_name": "com.example.contact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-feou0ho4h77p1ghvsb1dm0ubtndo9cm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contact",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:21da63b75d2d0c76766e4d",
+        "android_client_info": {
+          "package_name": "com.example.pain_scale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-edotrmhultoakcp8ikh4ck16pj059bdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pain_scale",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537403494072:android:3aa711e7d2895963766e4d",
+        "android_client_info": {
+          "package_name": "com.example.weigh_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537403494072-shigutht22v9glk411vb2k5r1q0or75h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.weigh_in",
+            "certificate_hash": "6b73c71e4126ac9b68d9e855f38ba9362b5b9244"
+          }
+        },
+        {
+          "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5YH1oxj64l0ET2nnUIz95PBgVPVYnTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537403494072-5ehcj1u86h7osirhvd8ve528cpj399p0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "537403494072-85hkalrefkc2kjf6qa9a3slfq0q1tk69.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Aknolastname.CLUB"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
